@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "tokyo-flames-415018",
+    "private_key_id": "c0f5524af03c406515eaeb4409fa4882725bbef5",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCU3meHHgU0Jz5G\ncxUtc/yLwbyzHHnVAgFF/uKbgY6YSMDcJXT2oi9VaKt7w33E01bfda24+HlYyvop\nPTYqQVcWYyZP09JDd/tE9vV4yM/n+2YCPPpgNsyE2w5FGrbSwQkKCtfowcrrM+1T\nAi6dsBWz5Tq13/AXB7KL4owLzSj6A1wXaqwSuzT/gZ+nI7njjkDhLkk29IcMIQM7\n8lzvp95KX2PklBqiwzsBVOcN9OfZQtsPCqzrXgcuusIjmMaSoNNNMxkT9QqJc2fw\n3KBWvcK/y9/aOOiw19EUh8OrwcTStTNtRVUhkXHHFRW//GxQIPBlEbC/UEIg/gKb\nPVkwDA8JAgMBAAECggEADnn2LVCBBwpN5wHn7EycIWcMl4pMWqdgQlM/7AlUOYDR\nqFbIIfexjKeqDVX8U/iNORuzcgpPmo/adcorCz7hXh70Kc0aZE81kwZE5qL4fMGY\nsN0HJ/YMO1sl7xhi8OmunFhjmJHHzsl06Z6Ls+/cnGrNI8SMD2FDPpEgN0GTG4S0\nJsG3MYbsUHFniXYxPRbMf7lzCqPZN7463T67W5cLha87gXccZz0MIA6OvJkqZCcq\n9lRpAzLFpKKya7SDjREQqTcQhvRc+BHW+93THkKuAMnH1liyNQLuReBOPStv7nZc\nDU3VSnelu3lEyBIlLnZq23kc8o0h+hKt12b5XtqZlQKBgQDE4ZmUl1PRazJCSth8\ny0jboIEMc4AoxfRrrUZ31WKIMY0j/hGIJP4h2b09J7JhZjufc/4oTqCVgX1z2IrF\nSOf2klb4baTBK1yExK9xzl39A0Dq9fGzO/D3JMWBjJcjhBH+LD2pVuLQTOMtJPKf\n/Fdf+ulb5DdCdwuKfVO+XVgz4wKBgQDBkg0bXmWWdZd4PUD3oWh64goeWgOeR82b\nZP3lklyCdHUrWIbBUJnxD7RQEwM38gWKhMexqHAfy4N6yOiEQd1ERopFw/aNE2wL\nZN0BDrV7xAXj5RmssP1f/WSop8F2XrvZ9lwLD8avK5VRWpwBPwkuAP69OscxQ89d\nUg9VQabdIwKBgHPEVBJTiS2y4rKoX/PBdO3vyvIPWGShQb+u+6irCG0c9ekcFCMB\n3Yz6A5RaK0GqY5S3F9OLqFFA+wuLYM3wuLT8B7e8gQw0+wn2vVMmDY4gw6NlSuIh\ndOdd7+TlTlnL5uiWCwvv0x64lzyMZT49mwMM/vrRjsy+Q0MDvqJJMPwRAoGAUYUA\noBYRElxTff/N7Hu9VIL9X+rouy/iFx9hDd2luArzjV2q4p7fNfY3KcHYCSeTzdI9\nh0Q4dCtxI7SYt5pFZQuQD/GHU8JqLiI8MMXRCF51XJSPS3r+Of6s9Zowj3k2A4UN\nHlt2gS8Jo0lVifDSHN2uamLmoIi+O77jVjRf4aECgYAQhPCefo++DIvbpHkctrhF\ndxmibfcBNATMM+choTFkzxThvKdT6CtLpRVWCA/89QIpN+nEq1bPmBw/BASqp4Hj\nY/I/7fNHYBMUm8WYELWz8RjBvUytfwOTNq0CWFhC6CBwY8aNlG0EbklVwJ24ALLZ\nkHQP2cmoFyywjqy4awjH8w==\n-----END PRIVATE KEY-----\n",
+    "client_email": "delegate-terraform@tokyo-flames-415018.iam.gserviceaccount.com",
+    "client_id": "118076625086303987770",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/delegate-terraform%40tokyo-flames-415018.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }  
