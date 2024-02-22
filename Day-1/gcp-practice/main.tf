@@ -27,3 +27,11 @@ resource "google_compute_subnetwork" "custome_subnets" {
   region        = each.value.region
   network       = google_compute_network.vpc_network.id
 }
+
+output "op-id" {
+  value = google_compute_network.vpc_network.id
+}
+
+output "op_self_link" {
+  value = google_compute_network.vpc_network.selflink
+}
