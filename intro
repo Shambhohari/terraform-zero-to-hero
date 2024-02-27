@@ -1,0 +1,21 @@
+
+first of all Thanks for giving me the interview oppertunity. 
+Iam working for Nokia Project in L&T Technology Services, My roles and responsibilities in this project are 
+implementing managed cloud based solutions on GCP and AWS cloud platfroms. My work spans the across Implementing cloud infrasructure 
+using terraform and deploying the micro-service java spring boot based application on Kubernetes and managed container services along with continuous deployment of adhoc changes on application and continuous monitoring of application using metrics and error trace logs for debug sessions.
+
+in Nokia we have fixed networks -> nokia home wifi team, we all as a team works for wifi product which is NWCC -> nokia Wifi Cloud Controller 
+this product provides broadband wireless network operations and management and visibility solutions to customer care agents + Network Administrators + on site technicians L3 support engineers and they will also selll wifi beacon devices along wuth the s/w solution. 
+
+This application develpoed based on java spring boot framwork close to 40 to 45 micro services will be deployed for all the features for the premium license customers. technologies used for this application to run are gcp and aws cloud for landing zone infrasructure provising, VPC, Load Balancers, Autoscaling groups, VMs, Cloud DNS, cloud storage, Postgres, Mariadb, Oracle Databases, conatiner managed services like GKE, ECS EKS for apllication integration troubleshooting purpose, It has descovery tool eureka bootadmin for health of container micro service, for de-coupling message queue integration rabbitmq and VerneMq used, for in-memory caching hazelcast used for monitoring metrics purpose prometheus and grafana stack used and for debug logs kibana fluentd stack used and last for authorization and authentication purpose keycloak tool
+
+My job is Im a cloud hosting owner for 7 customers prod cloud accounts along with pre-prod who are using the NWCC solution in cloud platforms. 
+Any change in the infrasructure and in application that has to be addressed by me via Jira project management tool. 
+
+pushing images to artifact repository
+monitoring the cloud usage costs on weely bases
+configuring the backups of persistance disk volumes by taking snapshots, db snapshots, Images backups 
+Configuring the cpu memory and disk usage alerts for application 
+Preparing quaterly aduits on platform for cost and performance optimization 
+Preparing cloud lambda functions for license expiry alerts and logs rotation
+preparing digicert autorized Crt sining requests and self signed certificates- renewing the SSL certificates. 
